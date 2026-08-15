@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8993ea,50:9694fa,100:6ee2f5&height=180&section=header&text=Parameshwaran%20H&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.E.%20CSE%20%E2%80%A2%20AI%20%26%20Machine%20Learning%20%E2%80%A2%20Full%20Stack&descSize=18&descAlignY=58" width="100%">
 
-<img src="./assets/profile.jpg" width="180" style="border-radius:50%;" alt="Parameshwaran H"/>
+<img src="https://raw.githubusercontent.com/paramesh137/paramesh137/main/assets/profile.jpg" width="180" style="border-radius:50%;" alt="Parameshwaran H"/>
 
 <br/><br/>
 
@@ -28,7 +28,7 @@
 <br>
 
 <div align="center">
-  <img src="./assets/hero-banner.svg" alt="hero banner" width="100%">
+  <img src="https://raw.githubusercontent.com/paramesh137/paramesh137/main/assets/hero-banner.svg" alt="hero banner" width="100%">
 </div>
 
 <br>
@@ -50,7 +50,7 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="./assets/tech-orbit.svg" alt="tech stack orbit" width="70%">
+  <img src="https://raw.githubusercontent.com/paramesh137/paramesh137/main/assets/tech-orbit.svg" alt="tech stack orbit" width="70%">
 </div>
 
 <div align="center">

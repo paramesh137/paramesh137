@@ -1,0 +1,19 @@
+<svg width="1200" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f1117"/>
+      <stop offset="100%" stop-color="#1a1d2e"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8993ea"/>
+      <stop offset="50%" stop-color="#9694fa"/>
+      <stop offset="100%" stop-color="#6ee2f5"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="200" fill="url(#bg)"/>
+  <circle cx="1080" cy="40" r="90" fill="#8993ea" opacity="0.08"/>
+  <circle cx="120" cy="180" r="70" fill="#6ee2f5" opacity="0.08"/>
+  <rect x="0" y="185" width="1200" height="4" fill="url(#accent)"/>
+  <text x="600" y="90" font-family="Fira Code, monospace" font-size="30" font-weight="600" fill="#ffffff" text-anchor="middle">AI &amp; Machine Learning &#8226; Full Stack Development</text>
+  <text x="600" y="135" font-family="Fira Code, monospace" font-size="17" fill="#9694fa" text-anchor="middle">Python &#8226; Flask &#8226; React &#8226; scikit-learn &#8226; Power BI</text>
+</svg>
